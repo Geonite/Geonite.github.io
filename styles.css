@@ -125,3 +125,7 @@ p {
 .about-content {
   letter-spacing: 0.1em;
 }
+
+.post-container:nth-child(even) {
+  background-color: #f2f2f2
+}
